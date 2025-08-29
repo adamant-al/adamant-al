@@ -22,7 +22,7 @@ Secure, censorship-resistant messenger powered by its own blockchain.
 ⚡ fair dPoS consensus & forging • 📡 decentralized networking • 🛠️ REST API • 🔑 validator keys  
 
 🔹 [Market-Making Bot](https://github.com/Adamant-im/adamant-tradebot)  
-Free, self-hosted **market-making bot** for token projects and exchanges:  
+Free, **self-hosted market-making bot** for token projects and exchanges:  
 📈 volume • 🧮 spread & liquidity • 🎯 price bands • 📊 live-like orderbooks  
 
 🔹 [IPFS Node](https://github.com/Adamant-im/ipfs-node)  
@@ -68,7 +68,7 @@ Automation for crypto exchange operations using ADAMANT blockchain.
 
 I'm here:  
 
-- 🟦 **ADM:** [U8879792970017145825](https://adm.im/?address=U8879792970017145825&label=Orion+Hashimoto)  
+- 💬 **ADM:** [U8879792970017145825](https://adm.im/?address=U8879792970017145825&label=Orion+Hashimoto)  
 - 🐦 **X (Twitter):** [@adamant_im](https://x.com/adamant_im)  
 - 📢 **Telegram:** [@adm_io](https://t.me/adm_io)  
 - ✉️ **Email:** msg@adamant.im  
